@@ -20,7 +20,7 @@ The Power BI dashboard provides:
 ## Data
 This dataset was downloaded from [United States Census Bureau](https://www.census.gov/).
 
-## Data Cleaning Steps
+## Data Cleaning Steps (Power Query)
 
 1. **Renamed Columns**  
    All column headers were standardized for readability and consistency.
