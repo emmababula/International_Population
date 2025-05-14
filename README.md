@@ -18,7 +18,7 @@ The Power BI dashboard provides:
 - When no year is selected, visualizations default to 2025
 
 ## Data
-This dataset was downloaded from [United States Census Bureau](https://www.census.gov/).
+This dataset was downloaded from [United States Census Bureau](https://www.census.gov/data-tools/demo/idb/#/table?dashboard_page=country&COUNTRY_YR_ANIM=2025&menu=tableViz).
 
 ## Data Cleaning Steps (Power Query)
 
